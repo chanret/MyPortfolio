@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Brush Sharp';
+    src: url('../font/BrushSharpRegular.eot');
+    src: url('../font/BrushSharpRegular.ttf') format('embedded-opentype'),
+        url('../font/BrushSharpRegular.woff') format('woff2'),
+        url('../font/BrushSharpRegular.woff2') format('woff'),
+        url('/font/BrushSharpRegular.woff2') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.font-brush{
+    font-family: 'Brush Sharp';
+}
+
